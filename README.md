@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/SamuelSilvaBarra/SamuelSilvaBarra/assets/132861241/ee3c2f98-e0cc-4213-b55e-17fba0f8d164" width="800"/>
+  <img src="https://github.com/SamuelSilvaBarra/SamuelSilvaBarra/assets/132861241/ee3c2f98-e0cc-4213-b55e-17fba0f8d164" width="800"/> 
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-silva-barrandey-qa-engineer/)
 </a>
@@ -30,8 +30,6 @@
    <div id="header" align="left">
    
  <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
   <img src="https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge"/>
   </a>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge"/>
