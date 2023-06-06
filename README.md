@@ -3,7 +3,7 @@
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-silva-barrandey-qa-engineer/)
 </a>
-[![](https://img.shields.io/badge/CV-red?style=for-the-badge)](https://drive.google.com/file/d/1oLRkAowEP-G-vDAgIJvP4q4eWynGnknA/view?usp=sharing)
+[![](https://img.shields.io/badge/CV-red?style=for-the-badge)](https://drive.google.com/file/d/1RtlT_GDmqAQKdndS4IZ09SzRGwSPx7NU/view?usp=drive_link)
 </a>
   </div>
   
