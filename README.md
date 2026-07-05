@@ -6,7 +6,7 @@
 
 I build automation frameworks, backend validation services, and developer tools that improve software quality and eliminate repetitive work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-silva-barrandey-qa-engineer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-silva-qa-automation-sdet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white)](working_on...)
 [![Resume](https://img.shields.io/badge/Resume-red?style=for-the-badge)](working_on...)
 
